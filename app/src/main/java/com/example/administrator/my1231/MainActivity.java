@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("msg","图片的地址");
                 startActivity(intent);
                 //更改2
+                //更改3
             }
         });
     }
